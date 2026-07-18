@@ -1,3 +1,4 @@
+package basicmaths.countdigit;
 import java.util.Scanner;
 public class countdigit{
     public static void main(String[] args) {
